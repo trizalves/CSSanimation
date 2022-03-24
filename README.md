@@ -2,10 +2,14 @@
   	:woman_technologist: CSS Animation :zap:
 </h3>
 
-![#f03c15](https://via.placeholder.com/15/FFFF00/000000?text=+)  TREINANDO ANIMAÇÃO COM CSS !
+<h2> TREINANDO ANIMAÇÃO COM CSS ! </h2>
 
-### TOPICOS 
+![Badge](https://img.shields.io/badge/Construção-TOPICOS-%237159c1?style=for-the-badge&logo=ghost)
 
  - [x] A animação é criada com proporções de um conjunto de estilos CSS.
  - [x] Pode alterar o conjunto diversas vezes.
  - [x] Especificando mudança de estilo em porcentagem ou com palavras-chaves.
+
+### :computer::electric_plug: Tecnologia Utilizada.
+
+→ [W3Schools](https://www.w3schools.com/)
