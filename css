@@ -24,9 +24,9 @@ to{
  background: #DC143C;
  position: relative;
  
- -webkit-animation: animacao-caixa 3s 1s 4 alternate;
- -moz-animation: animacao-caixa 3s 1s 4 alternate;
- -o-animation: animacao-caixa 3s 1s 4 alternate;
+ -webkit-animation: animacao-caixa 4s 2s 4 alternate;
+ -moz-animation: animacao-caixa 5s 4s 4 alternate;
+ -o-animation: animacao-caixa 6s 5s 4 alternate;
  animation: animacao-caixa 3s 1s 4 alternate;
 
  }
